@@ -1,0 +1,1 @@
+web: gunicorn placeholder.wsgi --log-file -
