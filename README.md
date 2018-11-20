@@ -5,7 +5,7 @@ Simple image placeholder with Django and React (development)
 ## How to
 
 ```Bash
-git clone https://github.com/sammarxz/picsum.git
+git clone https://github.com/sammarxz/picsum.co.git
 cd picsum
 pip install -r requirements.txt
 ```
